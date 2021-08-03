@@ -1,5 +1,5 @@
 import re
-
+# pls download the txt from the link 
 fhand = open('regex_sum_1278144.txt')
 tosum = 0
 
